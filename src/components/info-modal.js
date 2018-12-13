@@ -1,5 +1,4 @@
 import React from 'react';
-
 import './info-modal.css';
 
 export default function InfoModal(props) {
